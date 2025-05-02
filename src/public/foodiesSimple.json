@@ -1,0 +1,92 @@
+[
+  {
+    "id"          : 1,
+    "name"        : "Alice Johnson",
+    "email"       : "alice.johnson@example.com",
+    "city"        : "New York",
+    "description" : "Foodie & Coffee Enthusiast - Loves exploring new cuisines and brewing the perfect cup.",
+    "date"        : "2025-01-29",
+    "color"       : "#FF5733"
+  },
+  {
+    "id"          : 2,
+    "name"        : "Michael Smith",
+    "email"       : "michael.smith@example.com",
+    "city"        : "Los Angeles",
+    "description" : "Adventure Seeker - Passionate about spicy food and outdoor grilling",
+    "date"        : "2025-02-10",
+    "color"       : "#33FF57"
+  },
+  {
+    "id"          : 3,
+    "name"        : "Sophia Martinez",
+    "email"       : "sophia.martinez@example.com",
+    "city"        : "Chicago",
+    "description" : "Baker & Chocolatier - Enjoys crafting artisanal desserts and sharing recipes.",
+    "date"        : "2025-03-15",
+    "color"       : "#5733FF"
+  },
+  {
+    "id"          : 4,
+    "name"        : "David Lee",
+    "email"       : "david.lee@example.com",
+    "city"        : "San Francisco",
+    "description" : "Vegan & Health Advocate - Dedicated to plant-based eating and sustainable cooking.",
+    "date"        : "2025-04-20",
+    "color"       : "#FFC300"
+  },
+  {
+    "id"          : 5,
+    "name"        : "Emily Davis",
+    "email"       : "emily.davis@example.com",
+    "city"        : "Austin",
+    "description" : "BBQ & Craft Beer Lover - Explores the best smokehouses and breweries in Texas.",
+    "date"        : "2025-05-05",
+    "color"       : "#C70039"
+  },
+  {
+    "id"          : 6,
+    "name"        : "Daniel Brown",
+    "email"       : "daniel.brown@example.com",
+    "city"        : "Seattle",
+    "description" : "Seafood Expert - Enjoys fresh Pacific Northwest catches and sushi making.",
+    "date"        : "2025-06-12",
+    "color"       : "#900C3F"
+  },
+  {
+    "id"          : 7,
+    "name"        : "Olivia Wilson",
+    "email"       : "olivia.wilson@example.com",
+    "city"        : "Denver",
+    "description" : "Mountain Chef - Creates hearty meals perfect for high-altitude adventures.",
+    "date"        : "2025-07-18",
+    "color"       : "#581845"
+  },
+  {
+    "id"          : 8,
+    "name"        : "James Miller",
+    "email"       : "james.miller@example.com",
+    "city"        : "Boston",
+    "description" : "Clam Chowder Connoisseur - On a quest for the best chowder in New England.",
+    "date"        : "2025-08-22",
+    "color"       : "#1C1C1C"
+  },
+  {
+    "id"          : 9,
+    "name"        : "Charlotte White",
+    "email"       : "charlotte.white@example.com",
+    "city"        : "Miami",
+    "description" : "Tropical Taste Explorer - Passionate about exotic fruits and Caribbean flavors.",
+    "date"        : "2025-09-30",
+    "color"       : "#FF5733"
+  },
+  {
+    "id"          : 10,
+    "name"        : "Ethan Harris",
+    "email"       : "ethan.harris@example.com",
+    "city"        : "Dallas",
+    "description" : "Steakhouse Critic - Always hunting for the juiciest, most flavorful steak.",
+    "date"        : "2025-10-10",
+    "color"       : "#DAF7A6"
+  }
+]
