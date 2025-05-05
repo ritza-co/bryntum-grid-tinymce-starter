@@ -1,5 +1,46 @@
 @import "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap";
+@import "../node_modules/@bryntum/grid/grid.stockholm.css";
 
 :root {
   font-family: Poppins, "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+#container {
+  margin         : 0;
+  display        : flex;
+  flex-direction : column;
+  height         : 100vh;
+  font-size      : 14px;
+}
+
+.b-grid-cell[data-column="description"] {
+  display       : block;
+  padding-block : .75em;
+
+  h3 {
+      margin-block : 0 .5em;
+  }
+}
+
+.b-tinymcefield {
+    .tox.tox-tinymce {
+        width         : 100%;
+        border-radius : 2px;
+
+        &:not(.tox-tinymce-inline) {
+            border : 1px solid #d0d1d2;
+        }
+
+        &.tox-edit-focus {
+            border-color : rgba(254, 172, 49, 0.6);
+        }
+
+        .tox-edit-area::before {
+            border : none;
+        }
+    }
 }
