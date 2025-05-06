@@ -18,4 +18,4 @@ Use the following command to run the local dev server:
 npm run dev
 ```
 
-Open `http://localhost:5173`. You'll see the a blank white screen.
+Open `http://localhost:5173`. 
