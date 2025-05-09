@@ -1,4 +1,4 @@
-# Using a TinyMCE rich text editor in Bryntum Grid: starter code
+# Using the TinyMCE rich text editor in Bryntum Grid: Starter code
 
 This starter project was generated using the [Vite with JavaScript](https://vite.dev/guide/#scaffolding-your-first-vite-project) starter template.
 
@@ -18,4 +18,4 @@ Use the following command to run the local dev server:
 npm run dev
 ```
 
-Open `http://localhost:5173`. You'll see the a blank white screen.
+Open `http://localhost:5173`. You'll see a blank white screen.
