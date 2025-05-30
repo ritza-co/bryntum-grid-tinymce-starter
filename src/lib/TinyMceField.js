@@ -23,11 +23,11 @@ export default class TinyMceField extends RichTextField {
         tinyMceConfig : {},
 
         /**
-         * [tinyMCE license key](https://www.tiny.cloud/docs/tinymce/latest/license-key/) that needs to be provided by the customer.
+         * [tinyMCE API key](https://www.tiny.cloud/docs/tinymce/latest/license-key/) that needs to be provided by the customer.
          * @config {String}
          * @default
          */
-        licenseKey : 'your-api-key',
+        apiKey : 'your-api-key',
 
         /**
          * The operation mode of the tinyMCE editor. Set to `true` to use content editing instead of the default
@@ -123,7 +123,7 @@ export default class TinyMceField extends RichTextField {
 
             globalThis.tinymce.init({
                 ...me.tinyMceConfig,
-                license_key       : me.licenseKey,
+                apiKey            : me.apiKey,
                 auto_focus        : me.autoFocus,
                 inline            : me.inline,
                 forced_root_block : me.rootBlock,
