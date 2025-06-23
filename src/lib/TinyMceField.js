@@ -1,5 +1,4 @@
-import { DomHelper, GlobalEvents } from '@bryntum/grid';
-import RichTextField from '../widget/RichTextField';
+import { DomHelper, GlobalEvents, RichTextField } from '@bryntum/grid';
 
 export default class TinyMceField extends RichTextField {
     static $name = 'TinyMceField';
